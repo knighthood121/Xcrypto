@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/Xcrypto/static/js/main.cf828310.js",
+    "static/media/btc.png": "/Xcrypto/static/media/btc.04101b0b163c035fa57e.png",
+    "index.html": "/Xcrypto/index.html",
+    "main.cf828310.js.map": "/Xcrypto/static/js/main.cf828310.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cf828310.js"
+  ]
+}
